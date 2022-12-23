@@ -1,0 +1,13 @@
+total 17
+drwxr-xr-x 1 Susan 197121  0 Dec 23 21:55 .
+drwxr-xr-x 1 Susan 197121  0 Dec 23 17:59 ..
+-rwxr-xr-x 1 Susan 197121 32 Dec 23 18:01 0-hello_world
+-rwxr-xr-x 1 Susan 197121 28 Dec 23 18:05 1-confused_smiley
+-rwxr-xr-x 1 Susan 197121 28 Dec 23 18:08 2-hellofile
+-rwxr-xr-x 1 Susan 197121 39 Dec 23 18:17 3-twofiles
+-rwxr-xr-x 1 Susan 197121 29 Dec 23 18:20 4-lastlines
+-rwxr-xr-x 1 Susan 197121 29 Dec 23 18:22 5-firstlines
+-rwxr-xr-x 1 Susan 197121 36 Dec 23 18:30 6-third_line
+-rwxr-xr-x 1 Susan 197121 84 Dec 23 21:51 7-file
+-rwxr-xr-x 1 Susan 197121 36 Dec 23 21:55 8-cwd_state
+-rw-r--r-- 1 Susan 197121  0 Dec 23 21:55 ls_cwd_content
